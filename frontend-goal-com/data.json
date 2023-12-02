@@ -1,0 +1,186 @@
+{
+    "status": "status",
+    "data": {
+        "__typename": "LiveScoresPage",
+        "liveScores": [
+            {
+                "competition": {
+                    "id": "4oogyu6o156iphvdvphwpck10",
+                    "name": "UEFA Champions League",
+                    "area": {
+                        "name": "Europe"
+                    },
+                    "image": {
+                        "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/4oogyu6o156iphvdvphwpck10.png"
+                    }
+                },
+                "matches": [
+                    {
+                        "id": "8s6zvklpo2gghlfv5hnsshm38",
+                        "startDate": "2023-11-29T17:45:00.000Z",
+                        "venue": {
+                            "name": "Rams Global Stadium"
+                        },
+                        "lastUpdated": "2023-11-29T11:33:41.000Z",
+                        "period": null,
+                        "round": {
+                            "name": "Group Stage",
+                            "display": true
+                        },
+                        "status": "FIXTURE",
+                        "teamA": {
+                            "id": "esa748l653sss1wurz5ps3228",
+                            "code": "GS",
+                            "short": "Galatasaray",
+                            "long": "Galatasaray",
+                            "full": "Galatasaray Spor Kulübü",
+                            "name": "Galatasaray",
+                            "image": {
+                                "url": "https://cdn.sportfeeds.io/soccer/images/teams/75x75/uuid_esa748l653sss1wurz5ps3228.png"
+                            }
+                        },
+                        "teamB": {
+                            "id": "6eqit8ye8aomdsrrq0hk3v7gh",
+                            "code": "MUN",
+                            "short": "Man Utd",
+                            "long": "Manchester United",
+                            "full": "Manchester United FC",
+                            "name": "Man Utd",
+                            "image": {
+                                "url": "https://cdn.sportfeeds.io/soccer/images/teams/75x75/uuid_6eqit8ye8aomdsrrq0hk3v7gh.png"
+                            }
+                        },
+                        "redCards": {
+                            "teamA": 0,
+                            "teamB": 0
+                        },
+                        "score": null,
+                        "agg": null,
+                        "penalty": null,
+                        "tvChannel": {
+                            "name": "Paramount+",
+                            "link": {
+                                "url": "https://paramountplus.qflm.net/c/3589123/175360/3065?subId1=goal-OTT--&u=https%3A%2F%2Fwww.paramountplus.com%2F"
+                            },
+                            "logo": {
+                                "url": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qpFYSTyKKgxfCaGbyjGAZ2EUIspNvjFWi0L293Ic.png",
+                                "alt": null
+                            }
+                        }
+                    },
+                    {
+                        "id": "9ruu3xxakj649lhup1hxvce8k",
+                        "startDate": "2023-11-29T17:45:00.000Z",
+                        "venue": {
+                            "name": "Estadio Ramón Sánchez Pizjuán"
+                        },
+                        "lastUpdated": "2023-11-29T11:33:41.000Z",
+                        "period": null,
+                        "round": {
+                            "name": "Group Stage",
+                            "display": true
+                        },
+                        "status": "FIXTURE",
+                        "teamA": {
+                            "id": "10eyb18v5puw4ez03ocaug09m",
+                            "code": "SEV",
+                            "short": "Sevilla",
+                            "long": "Sevilla",
+                            "full": "Sevilla FC",
+                            "name": "Sevilla",
+                            "image": {
+                                "url": "https://cdn.sportfeeds.io/soccer/images/teams/75x75/uuid_10eyb18v5puw4ez03ocaug09m.png"
+                            }
+                        },
+                        "teamB": {
+                            "id": "24fvcruwqrqvqa3aonf8c3zuy",
+                            "code": "PSV",
+                            "short": "PSV",
+                            "long": "PSV",
+                            "full": "PSV Eindhoven",
+                            "name": "PSV",
+                            "image": {
+                                "url": "https://cdn.sportfeeds.io/soccer/images/teams/75x75/uuid_24fvcruwqrqvqa3aonf8c3zuy.png"
+                            }
+                        },
+                        "redCards": {
+                            "teamA": 0,
+                            "teamB": 0
+                        },
+                        "score": null,
+                        "agg": null,
+                        "penalty": null,
+                        "tvChannel": {
+                            "name": "Paramount+",
+                            "link": {
+                                "url": "https://paramountplus.qflm.net/c/3589123/175360/3065?subId1=goal-OTT--&u=https%3A%2F%2Fwww.paramountplus.com%2F"
+                            },
+                            "logo": {
+                                "url": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qpFYSTyKKgxfCaGbyjGAZ2EUIspNvjFWi0L293Ic.png",
+                                "alt": null
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "competition": {
+                    "id": "dm5ka0os1e3dxcp3vh05kmp33",
+                    "name": "Ligue 1",
+                    "area": {
+                        "name": "France"
+                    },
+                    "image": {
+                        "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/dm5ka0os1e3dxcp3vh05kmp33.png"
+                    }
+                },
+                "matches": [
+                    {
+                        "id": "epywryccgwuj3xo3c9zms104",
+                        "startDate": "2023-11-29T18:00:00.000Z",
+                        "venue": {
+                            "name": "Stade de la Mosson-Mondial 98"
+                        },
+                        "lastUpdated": "2023-11-29T11:33:41.000Z",
+                        "period": null,
+                        "round": {
+                            "name": "Regular Season",
+                            "display": false
+                        },
+                        "status": "FIXTURE",
+                        "teamA": {
+                            "id": "2cjpmotqo8phcqfpgo9xf4gel",
+                            "code": "MON",
+                            "short": "Montpellier",
+                            "long": "Montpellier",
+                            "full": "Montpellier HSC",
+                            "name": "Montpellier",
+                            "image": {
+                                "url": "https://cdn.sportfeeds.io/soccer/images/teams/75x75/uuid_2cjpmotqo8phcqfpgo9xf4gel.png"
+                            }
+                        },
+                        "teamB": {
+                            "id": "17o35s8assv3kamxowzz77k4r",
+                            "code": "CLE",
+                            "short": "Clermont",
+                            "long": "Clermont",
+                            "full": "Clermont Foot 63",
+                            "name": "Clermont",
+                            "image": {
+                                "url": "https://cdn.sportfeeds.io/soccer/images/teams/75x75/uuid_17o35s8assv3kamxowzz77k4r.png"
+                            }
+                        },
+                        "redCards": {
+                            "teamA": 1,
+                            "teamB": 1
+                        },
+                        "score": null,
+                        "agg": null,
+                        "penalty": null,
+                        "tvChannel": null
+                    }
+                ]
+            }
+        ]
+    }
+}
