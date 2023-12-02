@@ -1,0 +1,25 @@
+# Ignore vendor directories
+vendor
+
+# Ignore node_modules directory
+node_modules
+
+# Ignore Laravel storage directory
+storage
+
+# Ignore build artifacts
+build
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore logs
+*.log
+
+# Ignore Composer dependencies
+composer.lock
+
+# Ignore npm dependencies
+package-lock.json
